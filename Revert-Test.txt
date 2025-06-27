@@ -7,5 +7,3 @@
 <p>I love my life</p>
 <p>I love my life</p>
 <p>I love my life</p>
-<p>I love Nigeria</p>
-<p>I love Wales</p>
